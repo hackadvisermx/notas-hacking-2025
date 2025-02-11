@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lets Warm Up.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lets Warm Up"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lets Warm Up.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Lets Warm Up"
+              "title": "Enlaces entrantes de README"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lets Warm Up.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Lets Warm Up"
+              "title": "Enlaces salientes de README"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lets Warm Up.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Lets Warm Up"
+              "title": "Esquema de README"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "3c5ae21b498add79",
   "lastOpenFiles": [
+    "picoCTF/General Skills/Lets Warm Up.md",
     "README.md",
-    "Lets Warm Up.md",
     "picoCTF/General Skills",
     "picoCTF",
     "picoCTF.md",

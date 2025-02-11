@@ -7,5 +7,9 @@
 - castr@uaz.edu.mx
 
 ## picoCTF - General Skills
-- 
+- Lets Warm Up
+
+
+
+
 
